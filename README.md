@@ -14,7 +14,7 @@ Meme Finder is a simple and fun project that leverages an **MCP (Model Context P
 
 ## 🛠️ Tech Stack
 - **Backend:** MCP Server (Python implementation)
-- **Frontend (optional):** React.js / simple CLI
+- **Frontend (optional):** Integration with LLM like Cline / React.js / simple CLI
 - **API Source:** Reddit API , Meme API (e.g., [Imgflip API](https://api.imgflip.com)) or custom dataset
 - **Language:** Python 3.x
 
